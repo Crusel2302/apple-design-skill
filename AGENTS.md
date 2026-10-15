@@ -52,7 +52,7 @@ Options: `--out <dir>`, `--lookup <file>`, `--cache <dir>`, `--concurrency <n>`,
 
 What the script does:
 
-- Crawls Apple's six HIG sections and their sub-collections (158 pages as of September 2026).
+- Crawls Apple's six HIG sections and their sub-collections (158 pages as of October 2026).
 - Keeps every page that applies to iOS, iPadOS, or macOS, omits Apple-only hardware and services
   listed in `OMITTED_PAGES`, and records every omission with a reason in `hig-lookup.md`.
 - Renders Apple's JSON to Markdown faithfully: headings, paragraphs, lists, tables, notes, and
