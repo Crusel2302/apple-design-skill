@@ -108,7 +108,7 @@ The reviewer reads the relevant guideline files before it writes a word, then wo
 Every finding has a What, a Why that cites the guideline file and heading, and a Fix written in
 your framework. Specialized modes cover app icons, accessibility audits, dark mode, Liquid Glass,
 navigation structure, iPhone Duo, Apple Pay, code audits, onboarding and permissions, forms,
-generative AI, and single components.
+generative AI, widgets and Live Activities, and single components.
 
 **iPhone Duo mode** walks the outer display, the inner display, a partial fold, and Split View
 against Apple's iPhone Duo guidance: layouts built from size classes instead of fixed widths, the

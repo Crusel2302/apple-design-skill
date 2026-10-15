@@ -20,5 +20,5 @@ When reviewing or improving UI/UX designs, follow the Apple HIG based design rev
 
 Trigger this process when the user asks to: review a design, audit UI/UX, check accessibility,
 improve a layout, adapt an app for iPhone Duo, implement Liquid Glass or glassmorphism, make a
-design less generic, review an app icon, audit a codebase, check an Apple Pay checkout, or
-evaluate any visual or interaction design.
+design less generic, review an app icon, widget, or Live Activity, audit a codebase, check an
+Apple Pay checkout, or evaluate any visual or interaction design.
