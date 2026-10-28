@@ -1,0 +1,12 @@
+{
+  "name": "druckwerk",
+  "version": "1.0.0",
+  "description": "Druckwerk: Dashboard für 3D-Druck-Betriebe mit Druckern (Bambu Cloud), Kunden, Designs, Rechnungen, Filamentlager, Kalender und Kostenrechnung.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check lib/db.mjs && node --check lib/mqtt.mjs && node --check lib/bambu.mjs && node --check lib/seed.mjs"
+  }
+}
