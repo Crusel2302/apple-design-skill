@@ -39,6 +39,7 @@ a generated lookup table, and the script that regenerates all of it.
 | `references/cross-platform.md` | Apple's vocabulary and conventions for Flutter, React Native, Tauri, and Electron | Yes |
 | `references/code-audit.md` | Code patterns to search for (Apple Pay, Liquid Glass, iPhone Duo), with citations and replacements | Yes |
 | `scripts/pull-hig.mjs` | Pull script, Node 18 or newer, no dependencies | Yes |
+| `apps/druckwerk/` | Example app built with the skill (3D-print business dashboard, German UI); not part of the skill | Yes |
 
 ## Refreshing the references
 
