@@ -183,6 +183,14 @@ script twice produces identical output, so a clean `git status` after a second r
 
 `AGENTS.md` lists the checks to run before committing a refresh.
 
+## Example app: Druckwerk
+
+[`apps/druckwerk/`](apps/druckwerk/) is a complete web app built with this skill: a dashboard
+for 3D-printing businesses with printers (including Bambu Cloud live status), orders, a
+scheduling calendar, customers, a design database, filament stock, a print cost calculator, and
+invoices. Its UI is in German. Run it with `node apps/druckwerk/server.mjs` (Node 18 or newer, no
+dependencies) and see its [README](apps/druckwerk/README.md).
+
 ## Sponsor
 
 If this skill saves you review time, you can support its upkeep through

@@ -1,0 +1,9 @@
+{
+  "name": "Druckwerk",
+  "short_name": "Druckwerk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
